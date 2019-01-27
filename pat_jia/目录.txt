@@ -5,3 +5,7 @@
 1048---用到了twopoint方法，用while实现。
 1051---有关栈弹出顺序特性的判断。
 1054---有关map，scanf优于cin的判断
+1028---有关cmp排序的用法
+1056---有关vector.erase的用法
+1058---有关stoi转化，substr的应用
+
